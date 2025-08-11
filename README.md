@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer, currently working on web developtment. I love Laravel and PHP. I also work on NodeJS, Typescript, Python and many more. Ypu can reach me on: hello.deriprasetyo@gmail.com.
+I'm a software engineer, currently working on web developtment. I love Laravel and PHP. I also work on NodeJS, Typescript, Python and many more. You can reach me on: hello.deriprasetyo@gmail.com.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripletTrouble&layout=compact)
 
